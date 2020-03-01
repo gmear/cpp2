@@ -1,7 +1,11 @@
 #include <iostream>
 
+using namespace std;
+
  int main(int argc, char const *argv[]) {
 
-  std::cout << "Hello World !" << std::endl;
+  cout << "Hello World !" << endl;
+
+  cout << "Test numero 2" << endl;
   return 0;
 }
